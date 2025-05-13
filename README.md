@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abdelrhman El-Tayeb</h1>
 <h3 align="center">
-I'm Abdelrhman El-Tayeb, a passionate student at Badr University, exploring technology and innovation. I have experience in **Python**, **JavaScript**, **HTML**, **CSS**, **Java**, and **C++**. I'm deeply interested in **Data Science**, **Machine Learning**, and **Web Development**.
+I'm Abdelrhman El-Tayeb, a passionate student at Badr University, exploring technology and innovation. I'm deeply interested in Data Science, Machine Learning, and Web Development.
 </h3>
 
 <p align="center">
