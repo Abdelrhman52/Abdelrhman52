@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abdelrhman El-Tayeb</h1>
 <h3 align="center">
-I'm Abdelrhman El-Tayeb, a passionate student at Badr University, exploring technology and innovation. I'm deeply interested in Data Science, Machine Learning, and Web Development.
+A student at Badr University, I explore technology and innovation. I am interested in data science, machine learning, and web development.
 </h3>
 
 <p align="center">
