@@ -40,9 +40,6 @@ A student at Badr University, I explore technology and innovation. I am interest
   <a href="https://linkedin.com/in/abdelrhman-eltyb" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="30" height="30" />
   </a>
-  <a href="https://instagram.com/abdelrhmaneltayeb526" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="30" height="30" />
-  </a>
   <a href="https://codeforces.com/profile/abdelrhman58" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" width="30" height="30" />
   </a>
