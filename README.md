@@ -16,17 +16,20 @@ a university student and aspiring Data Scientist.
 
 <p align="center">
   <a href="https://twitter.com/abdelrhman8820" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/abdelrhman8820?logo=twitter&style=for-the-badge" alt="Twitter Follow" />
+    <img src="https://img.shields.io/twitter/follow/Abdelrhman El-Tayeb?style=social&background=000000" alt="Follow on X" style="max-width: 100%; height: auto;"></a>
   </a>
 </p>
 
----
+<br>
 
-<table>
-  <tr>
-    <td>
-      <h2>👩‍💻 About Me:</h2>
-<ul>
+<p dir="auto"><animated-image data-catalyst="" style="float: right;"><a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" data-target="animated-image.originalLink"><img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
+      <span class="AnimatedImagePlayer" data-target="animated-image.player" hidden="">
+        <a data-target="animated-image.replacedLink" class="AnimatedImagePlayer-images" href="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" target="_blank">
+          
+
+   <h2>👩‍💻 About Me:</h2>
+<ul dir="auto">
+   <li>🏫 I am a <code>Computer Science student</code> at Badr University in Assiut</li>
   <li>🌱 Currently learning Data Science fundamentals including Python, Pandas, NumPy, data visualization, and machine learning basics.</li>
   <li>📚 I’m passionate about exploring how data can solve real-world problems and help drive smart decisions.</li>
   <li>💡 Always curious and eager to improve, I'm also enhancing my skills in Git/GitHub, and getting familiar with tools like Jupyter Notebook and basic SQL.</li>
@@ -34,14 +37,10 @@ a university student and aspiring Data Scientist.
   <li>📫 Reach me at: <a href="mailto:abdelrhmaneltayeb7@gmail.com">abdelrhmaneltayeb7@gmail.com</a></li>
   <li>🔗 Connect with me on <a href="https://www.linkedin.com/in/abdelrhman-eltyb">LinkedIn</a></li>
 </ul>
-  </td>
-    <td>
-      <img src="https://jobpakado.com/wp-content/uploads/2024/04/Data-Science.gif" alt="Data Science" width="360px" />
-    </td>
-  </tr>
-</table>
+      
 
----
+
+<br>
 
 <h2>🌐 Connect with me:</h2>
 <table>
