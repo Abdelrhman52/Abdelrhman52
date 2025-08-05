@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abdelrhman El-Tayeb</h1>
 <h3 align="center">
-A student at Badr University, I explore technology and innovation. I am interested in data science, machine learning, and web development.
+a university student and aspiring Data Scientist.
+
 </h3>
 
 <p align="center">
@@ -21,55 +22,106 @@ A student at Badr University, I explore technology and innovation. I am interest
 
 ---
 
-### 👨‍💻 About Me:
-
-- 🌱 I’m currently learning **React**, **Bootstrap**, **UI/UX Design**, and **Git/GitHub** to enhance my development skills.
-- 💬 Feel free to ask me about **JavaScript**, **Python**, **HTML**, **CSS**, **C++**, **Java** and **Machine Learning**.
-- 🧠 I'm constantly exploring the fields of **Machine Learning**, **Web Development**, and **Competitive Programming**.
-- 📫 You can reach me at **abdelrhmaneltayeb7@gmail.com**
-- 🔗 Explore my work and professional journey on my [LinkedIn Profile](https://www.linkedin.com/in/abdelrhman-eltyb)
+<table>
+  <tr>
+    <td>
+      <h2>👩‍💻 About Me:</h2>
+<ul>
+  <li>🌱 Currently learning Data Science fundamentals including Python, Pandas, NumPy, data visualization, and machine learning basics.</li>
+  <li>📚 I’m passionate about exploring how data can solve real-world problems and help drive smart decisions.</li>
+  <li>💡 Always curious and eager to improve, I'm also enhancing my skills in Git/GitHub, and getting familiar with tools like Jupyter Notebook and basic SQL.</li>
+  <li>🚀 Interested in building small data projects to apply what I learn and share my progress.</li>
+  <li>📫 Reach me at: <a href="mailto:abdelrhmaneltayeb7@gmail.com">abdelrhmaneltayeb7@gmail.com</a></li>
+  <li>🔗 Connect with me on <a href="https://www.linkedin.com/in/your-profile">LinkedIn</a></li>
+</ul>
+  </td>
+    <td>
+      <img src="https://jobpakado.com/wp-content/uploads/2024/04/Data-Science.gif" alt="Data Science" width="360px" />
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 🌐 Connect with me:
-
-<p align="left">
-  <a href="https://twitter.com/abdelrhman8820" target="_blank">
+<h2>🌐 Connect with me:</h2>
+<table>
+ <tr>
+  <td align="center" width="96">
+    <a href="https://twitter.com/abdelrhman8820" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" width="30" height="30" />
   </a>
-  <a href="https://linkedin.com/in/abdelrhman-eltyb" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="30" height="30" />
+    <br>Twitter
+     </td>
+   <td align="center" width="96">
+      <a href="https://linkedin.com/in/abdelrhman-eltyb" target="_blank">
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="30" height="30" />
   </a>
-  <a href="https://codeforces.com/profile/abdelrhman58" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" width="30" height="30" />
+     <br>LinkedIn
+     </td>
+   <td align="center" width="96">
+      <a href="https://codeforces.com/profile/abdelrhman58" target="_blank">
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" width="30" height="30" />
   </a>
-</p>
+      <br>Codeforces
+     </td>
+ </tr>
+</table>
 
 ---
 
-### 🛠️ Languages and Tools:
+### 🛠️ Favorite Tech:
 
-<p align="center">
-  <a href="https://www.w3schools.com/python/default.asp" target="_blank">
+
+<table>
+  <tr>
+    <td align="center" width="96">
+      <a href="https://www.w3schools.com/python/default.asp" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
   </a>
-  <a href="https://www.w3schools.com/js/default.asp" target="_blank">
+      <br>Python
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.w3schools.com/js/default.asp" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
   </a>
-  <a href="https://www.w3schools.com/html/default.asp" target="_blank">
+      <br>Javascript
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.w3schools.com/html/default.asp" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="40" height="40" />
   </a>
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40" height="40" />
-  </a>
-  <a href="https://www.w3schools.com/java/default.asp" target="_blank">
+      <br>HTML
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.w3schools.com/java/default.asp" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" />
   </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank">
+      <br>Java
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.w3schools.com/css/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40" height="40" />
+  </a>
+      <br>CSS
+    </td>
+      <br>
+    <td align="center" width="96">
+       <a href="https://www.w3schools.com/cpp/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" />
   </a>
-  </p>
+      <br>C++
+    </td>
+     <td align="center" width="96">
+       <a href="https://www.w3schools.com/mysql/" target="_blank">
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" />
+  </a>
+      <br>MySQL
+  </tr>
+</table>
 
+
+  
+ 
 ---
 
 ### 📊 GitHub Stats:
