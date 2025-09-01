@@ -63,6 +63,14 @@ a university student and aspiring Data Scientist.
   </a>
       <br>Codeforces
      </td>
+   
+ <td align="center" width="96">
+  <a href="https://leetcode.com/u/abdelrhmaneltayeb77/" target="_blank">
+    <img src="https://assets.leetcode.com/users/leetcode/avatar_1568224780.png" alt="LeetCode" width="30" height="30" />
+  </a>
+  <br>LeetCode
+</td>
+
  </tr>
 </table>
 
