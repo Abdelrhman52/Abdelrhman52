@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abdelrhman El-Tayeb</h1>
 <h3 align="center">
-a university student and aspiring Data Scientist.
+a university student and aspiring Data Engineering.
 
 </h3>
 
