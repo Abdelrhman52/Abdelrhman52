@@ -4,15 +4,6 @@ a university student and aspiring Data Engineering.
 
 </h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Abdelrhman52&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Abdelrhman52&theme=onedark" alt="Trophies" />
-  </a>
-</p>
 
 <p align="center">
   <a href="https://twitter.com/abdelrhman8820" target="_blank">
