@@ -32,88 +32,138 @@ a university student and aspiring Data Engineering.
 
 
 <br>
-
 <h2>🌐 Connect with me:</h2>
+
 <table>
  <tr>
+
+  <!-- Facebook -->
+  <td align="center" width="96">
+    <a href="https://www.facebook.com/profile.php?id=61558695880071" target="_blank">
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" width="30" height="30" />
+    </a>
+    <br>Facebook
+  </td>
+
+  <!-- LinkedIn -->
+  <td align="center" width="96">
+    <a href="https://linkedin.com/in/abdelrhman-eltyb" target="_blank">
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="30" height="30" />
+    </a>
+    <br>LinkedIn
+  </td>
+
+ <!-- Google Gmail -->
+  <td align="center" width="96">
+    <a href="mailto:abdelrhmaneltayeb7@gmail.com" target="_blank">
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" width="30" height="30" />
+    </a>
+    <br>Gmail
+  </td>
+
+  <!-- X (Twitter) -->
   <td align="center" width="96">
     <a href="https://twitter.com/abdelrhman8820" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" width="30" height="30" />
-  </a>
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width="30" height="30" />
+    </a>
     <br>Twitter
-     </td>
-   <td align="center" width="96">
-      <a href="https://linkedin.com/in/abdelrhman-eltyb" target="_blank">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="30" height="30" />
-  </a>
-     <br>LinkedIn
-     </td>
-   <td align="center" width="96">
-      <a href="https://codeforces.com/profile/abdelrhman58" target="_blank">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" width="30" height="30" />
-  </a>
-      <br>Codeforces
-     </td>
-   
- <td align="center" width="96">
-  <a href="https://leetcode.com/u/abdelrhmaneltayeb77/" target="_blank">
-    <img src="https://assets.leetcode.com/users/leetcode/avatar_1568224780.png" alt="LeetCode" width="30" height="30" />
-  </a>
-  <br>LeetCode
-</td>
+  </td>
 
  </tr>
 </table>
 
 ---
 
-### 🛠️ Favorite Tech:
-
+### 🛠️ Favorite Tech & Tools:
 
 <table>
   <tr>
+    <!-- Python -->
     <td align="center" width="96">
-      <a href="https://www.w3schools.com/python/default.asp" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
-  </a>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
       <br>Python
     </td>
+    <!-- Java -->
     <td align="center" width="96">
-      <a href="https://www.w3schools.com/js/default.asp" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
-  </a>
-      <br>Javascript
-    </td>
-    <td align="center" width="96">
-      <a href="https://www.w3schools.com/html/default.asp" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="40" height="40" />
-  </a>
-      <br>HTML
-    </td>
-    <td align="center" width="96">
-      <a href="https://www.w3schools.com/java/default.asp" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" />
-  </a>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
       <br>Java
     </td>
+    <!-- C++ -->
     <td align="center" width="96">
-      <a href="https://www.w3schools.com/css/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40" height="40" />
-  </a>
-      <br>CSS
-    </td>
-      <br>
-    <td align="center" width="96">
-       <a href="https://www.w3schools.com/cpp/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" />
-  </a>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
       <br>C++
     </td>
-     <td align="center" width="96">
-       <a href="https://www.w3schools.com/mysql/" target="_blank">
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" />
-  </a>
-      <br>MySQL
+    <!-- Pandas -->
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40"/>
+      <br>Pandas
+    </td>
+    <!-- NumPy -->
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40" height="40"/>
+      <br>NumPy
+    </td>
+  </tr>
+  <tr>
+    <!-- Matplotlib -->
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="40" height="40"/>
+      <br>Matplotlib
+    </td>
+    <!-- Seaborn -->
+    <td align="center" width="96">
+      <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="40" height="40"/>
+      <br>Seaborn
+    </td>
+    <!-- Scikit-learn -->
+    <td align="center" width="96">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40"/>
+      <br>Sklearn
+    </td>
+    <!-- PyTorch -->
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="40" height="40"/>
+      <br>PyTorch
+    </td>
+    <!-- TensorFlow -->
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="40" height="40"/>
+      <br>TensorFlow
+    </td>
+  </tr>
+  <tr>
+<!-- SQL Server -->
+<td align="center" width="96">
+  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="40" height="40"/>
+  <br>SQL Server
+</td>
+    <!-- PySpark -->
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg" width="40" height="40"/>
+      <br>PySpark
+    </td>
+ <!-- Power BI -->
+    <td align="center" width="96">
+      <img src="https://img.icons8.com/color/48/power-bi.png" width="40" height="40"/>
+      <br>Power BI
+    </td>
+  </tr>
+  <tr>
+    <!-- Jupyter -->
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" width="40" height="40"/>
+      <br>Jupyter
+    </td>
+    <!-- Colab -->
+    <td align="center" width="96">
+      <img src="https://colab.research.google.com/img/colab_favicon_256px.png" width="40" height="40"/>
+      <br>Colab
+    </td>
+    <!-- Databricks -->
+    <td align="center" width="96">
+      <img src="https://www.vectorlogo.zone/logos/databricks/databricks-icon.svg" width="40" height="40"/>
+      <br>Databricks
+    </td>
   </tr>
 </table>
 
