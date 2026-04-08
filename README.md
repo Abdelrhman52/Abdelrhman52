@@ -52,15 +52,6 @@ a university student and aspiring Data Engineering.
     </a>
     <br>LinkedIn
   </td>
-
- <!-- Google Gmail -->
-  <td align="center" width="96">
-    <a href="mailto:abdelrhmaneltayeb7@gmail.com" target="_blank">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" width="30" height="30" />
-    </a>
-    <br>Gmail
-  </td>
-
   <!-- X (Twitter) -->
   <td align="center" width="96">
     <a href="https://twitter.com/abdelrhman8820" target="_blank">
